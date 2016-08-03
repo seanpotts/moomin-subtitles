@@ -14,3 +14,4 @@ The subtitles are standard [.SRT](https://en.wikipedia.org/wiki/SubRip) files. T
 ## Episode credits
 
 1. 001 Muumilaakson kevät (Moomin Valley Spring) - Sean Potts & Eeva Piha
+1. 002 Taikurin hattu (Hat of The Magician) - Sean Potts & Eeva Piha
