@@ -16,3 +16,4 @@ The subtitles are standard [.SRT](https://en.wikipedia.org/wiki/SubRip) files. T
 1. 001 Muumilaakson kevät (Moomin Valley Spring) - Sean Potts & Eeva Piha
 2. 002 Taikurin hattu (Hat of The Magician) - Sean Potts & Eeva Piha
 3. 003 Rannalta löytynyt hylky (The shipwreck on the beach) - Sean Potts & Eeva Piha
+4. 004 Tervetuloa hattivattien saarelle (Welcome to Hattifattener Island) - Sean Potts & Eeva Piha
