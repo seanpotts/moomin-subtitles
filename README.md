@@ -18,3 +18,4 @@ The subtitles are standard [.SRT](https://en.wikipedia.org/wiki/SubRip) files. T
 3. 003 Rannalta löytynyt hylky (The shipwreck on the beach) - Sean Potts & Eeva Piha
 4. 004 Tervetuloa hattivattien saarelle (Welcome to Hattifattener Island) - Sean Potts & Eeva Piha
 5. 005 Hattivattien salaisuudet (The Hattifatteners' secrets) - Sean Potts & Eeva Piha
+6. 006 Pikkuruiset vieraat (Tiny little guests) - Sean Potts & Eeva Piha
