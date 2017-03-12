@@ -10,6 +10,7 @@ The subtitles are standard [.SRT](https://en.wikipedia.org/wiki/SubRip) files. T
 
 + **Sean Potts** - Timekeeper and typist
 + **Eeva Piha** - Finnish-English translator
++ **Emmi Pönkänen** - Finnish-English translator
 
 ## Episode credits
 
@@ -19,3 +20,4 @@ The subtitles are standard [.SRT](https://en.wikipedia.org/wiki/SubRip) files. T
 4. 004 Tervetuloa hattivattien saarelle (Welcome to Hattifattener Island) - Sean Potts & Eeva Piha
 5. 005 Hattivattien salaisuudet (The Hattifatteners' secrets) - Sean Potts & Eeva Piha
 6. 006 Pikkuruiset vieraat (Tiny little guests) - Sean Potts & Eeva Piha
+7. 007 Matkalaukku (Suitcase) - Sean Potts & Emmi Pönkänen
