@@ -8,16 +8,19 @@ The subtitles are standard [.SRT](https://en.wikipedia.org/wiki/SubRip) files. T
 
 ## Project credits
 
-+ **Sean Potts** - Timekeeper and typist
-+ **Eeva Piha** - Finnish-English translator
-+ **Emmi Pönkänen** - Finnish-English translator
++ **Sean Potts** - Timekeeper, typist and occasional translator
++ **Eeva Piha** - Finnish/English translator
++ **Emmi Pönkänen** - Finnish/English translator
++ **Tilda Saarinen** - Finnish/English translator
++ **Ari Taimi** - Finnish/English translator
 
 ## Episode credits
 
-1. 001 Muumilaakson kevät (Moomin Valley Spring) - Sean Potts & Eeva Piha
-2. 002 Taikurin hattu (Hat of The Magician) - Sean Potts & Eeva Piha
-3. 003 Rannalta löytynyt hylky (The shipwreck on the beach) - Sean Potts & Eeva Piha
-4. 004 Tervetuloa hattivattien saarelle (Welcome to Hattifattener Island) - Sean Potts & Eeva Piha
-5. 005 Hattivattien salaisuudet (The Hattifatteners' secrets) - Sean Potts & Eeva Piha
-6. 006 Pikkuruiset vieraat (Tiny little guests) - Sean Potts & Eeva Piha
-7. 007 Matkalaukku (Suitcase) - Sean Potts & Emmi Pönkänen
+1. 001 Muumilaakson kevät (Moomin Valley Spring) - Eeva Piha & Sean Potts
+2. 002 Taikurin hattu (Hat of The Magician) - Eeva Piha & Sean Potts
+3. 003 Rannalta löytynyt hylky (The shipwreck on the beach) - Eeva Piha & Sean Potts
+4. 004 Tervetuloa hattivattien saarelle (Welcome to Hattifattener Island) - Eeva Piha & Sean Potts
+5. 005 Hattivattien salaisuudet (The Hattifatteners' secrets) - Eeva Piha & Sean Potts
+6. 006 Pikkuruiset vieraat (Tiny little guests) - Eeva Piha & Sean Potts
+7. 007 Matkalaukku (Suitcase) - Emmi Pönkänen & Sean Potts
+7. 008 Taikurin taika (The Magician's spell) - Tilda Saarinen, Ari Taimi & Sean Potts
