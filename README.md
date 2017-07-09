@@ -13,6 +13,7 @@ The subtitles are standard [.SRT](https://en.wikipedia.org/wiki/SubRip) files. T
 + **Emmi Pönkänen** - Finnish/English translator
 + **Tilda Saarinen** - Finnish/English translator
 + **Ari Taimi** - Finnish/English translator
++ **Samuli Saarikoski** - Finnish/English translator
 
 ## Episode credits
 
@@ -24,3 +25,4 @@ The subtitles are standard [.SRT](https://en.wikipedia.org/wiki/SubRip) files. T
 6. 006 Pikkuruiset vieraat (Tiny little guests) - Eeva Piha & Sean Potts
 7. 007 Matkalaukku (Suitcase) - Emmi Pönkänen & Sean Potts
 7. 008 Taikurin taika (The Magician's spell) - Tilda Saarinen, Ari Taimi & Sean Potts
+7. 009 Näkymätön lapsi (Invisible child) - Eeva Piha & Sean Potts
