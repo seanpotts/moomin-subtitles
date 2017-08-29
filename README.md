@@ -26,3 +26,4 @@ The subtitles are standard [.SRT](https://en.wikipedia.org/wiki/SubRip) files. T
 7. 007 Matkalaukku (Suitcase) - Emmi Pönkänen & Sean Potts
 7. 008 Taikurin taika (The Magician's spell) - Tilda Saarinen, Ari Taimi & Sean Potts
 7. 009 Näkymätön lapsi (Invisible child) - Eeva Piha & Sean Potts
+7. 010 Ninni saa hymynsä takaisin (Ninny gets back her smile) - Emmi Pönkänen & Sean Potts
