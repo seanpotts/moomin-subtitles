@@ -17,13 +17,16 @@ The subtitles are standard [.SRT](https://en.wikipedia.org/wiki/SubRip) files. T
 
 ## Episode credits
 
-1. 001 Muumilaakson kevät (Moomin Valley Spring) - Eeva Piha & Sean Potts
-2. 002 Taikurin hattu (Hat of The Magician) - Eeva Piha & Sean Potts
-3. 003 Rannalta löytynyt hylky (The shipwreck on the beach) - Eeva Piha & Sean Potts
-4. 004 Tervetuloa hattivattien saarelle (Welcome to Hattifattener Island) - Eeva Piha & Sean Potts
-5. 005 Hattivattien salaisuudet (The Hattifatteners' secrets) - Eeva Piha & Sean Potts
-6. 006 Pikkuruiset vieraat (Tiny little guests) - Eeva Piha & Sean Potts
-7. 007 Matkalaukku (Suitcase) - Emmi Pönkänen & Sean Potts
-7. 008 Taikurin taika (The Magician's spell) - Tilda Saarinen, Ari Taimi & Sean Potts
-7. 009 Näkymätön lapsi (Invisible child) - Eeva Piha & Sean Potts
-7. 010 Ninni saa hymynsä takaisin (Ninny gets back her smile) - Emmi Pönkänen & Sean Potts
+Listed below are the people who helped out with translations.
+
+1. 001 Muumilaakson kevät (Moomin Valley Spring) - Eeva Piha
+2. 002 Taikurin hattu (Hat of The Magician) - Eeva Piha
+3. 003 Rannalta löytynyt hylky (The shipwreck on the beach) - Eeva Piha
+4. 004 Tervetuloa hattivattien saarelle (Welcome to Hattifattener Island) - Eeva Piha
+5. 005 Hattivattien salaisuudet (The Hattifatteners' secrets) - Eeva Piha
+6. 006 Pikkuruiset vieraat (Tiny little guests) - Eeva Piha
+7. 007 Matkalaukku (Suitcase) - Emmi Pönkänen
+8. 008 Taikurin taika (The Magician's spell) - Tilda Saarinen & Ari Taimi
+9. 009 Näkymätön lapsi (Invisible child) - Eeva Piha
+10. 010 Ninni saa hymynsä takaisin (Ninny gets back her smile) - Emmi Pönkänen
+11. 011 Niisku leijailee taivaalla (Snork floats in the sky) - Tilda Saarinen
